@@ -1,0 +1,6 @@
+@aperture_finance/uni-v3-lib/=node_modules/@aperture_finance/uni-v3-lib/
+@pancakeswap/=node_modules/@pancakeswap/
+@openzeppelin/=node_modules/@openzeppelin/
+@uniswap/=node_modules/@uniswap/
+solady/=node_modules/solady/
+forge-std/=lib/forge-std/src/
