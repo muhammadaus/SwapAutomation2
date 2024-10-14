@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+
+# Build artifacts
+artifacts/
+cache/
+out/
+
+# Hardhat specific files
+hardhat-cache/
+hardhat-deploy/
+hardhat-deploy-helpers/
+typechain/
+
+# Foundry specific files
+lib/
+lib/forge-std/
+lib/other-dependencies/
+*.json
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Miscellaneous
+*.tgz
+*.zip
